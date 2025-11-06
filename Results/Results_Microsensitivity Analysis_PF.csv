@@ -1,0 +1,37 @@
+Map,MapProcessed,Algorithm,Success,TotalTime,AlgoTime,PathLen,Smoothness,RobotShape,RobotSize,RobotColor,DynEnabled,DynCount,Region,ScenarioID,Seed,RRT_Step,RRT_Iter,RRT_GoalBias,PF_k_att,PF_k_rep,PF_Qstar,Thresh,Replans,StartX,StartY,GoalX,GoalY
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.7393062,0.031941,326.2523717,1.980400294,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.01,70,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,11.0840433,0.0344535,326.2523717,1.980400294,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.01,70,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.2480965,0.0259623,326.2523717,1.980400294,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.01,70,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.5644673,0.0303826,335.3361288,3.033260341,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,384.8276802,172.9824349,73.8646275,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.5154867,0.0437714,335.3361288,3.033260341,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,384.8276802,172.9824349,73.8646275,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.1415544,0.045973,335.3361288,3.033260341,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,384.8276802,172.9824349,73.8646275,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,0,7.107842,0.0456348,Inf,Inf,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.01,70,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,0,7.7485347,0.0507198,Inf,Inf,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.01,70,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,0,7.1730799,0.0507499,Inf,Inf,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.01,70,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,6.8901728,0.0281162,260.4339324,4.523360554,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,215.9603271,508.6577832,357.0263477,365.0175651
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,7.6553028,0.0275658,260.4339324,4.523360554,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,215.9603271,508.6577832,357.0263477,365.0175651
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,7.3623699,0.0289346,260.4339324,4.523360554,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,215.9603271,508.6577832,357.0263477,365.0175651
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.5348913,0.1078125,324.7735348,1.670487225,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,50,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.2736496,0.0279713,324.7735348,1.670487225,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,50,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.3353108,0.0368669,324.7735348,1.670487225,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,50,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.2081495,0.0357809,324.6113937,1.741967512,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,100,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.1526375,0.0323299,324.6113937,1.741967512,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,100,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.1558565,0.0487396,324.6113937,1.741967512,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,100,1.2,NaN,NaN,381.2238038,173.4972744,79.01302241,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.5644673,0.0303826,335.3361288,3.033260341,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,384.8276802,172.9824349,73.8646275,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.5154867,0.0437714,335.3361288,3.033260341,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,384.8276802,172.9824349,73.8646275,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,9.1415544,0.045973,335.3361288,3.033260341,square,6,[0.4235 0.9569 1],0,0,Sparse,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,384.8276802,172.9824349,73.8646275,241.4560872
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,7.6404389,0.0376189,264.3486039,1.977260938,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,50,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,7.3426819,0.0271997,264.3486039,1.977260938,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,50,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,8.036038,0.0310327,264.3486039,1.977260938,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,50,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,0,7.3878824,0.0513803,Inf,Inf,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,100,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,0,7.2646506,0.0461973,Inf,Inf,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,100,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,0,7.137119,0.0449717,Inf,Inf,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,100,1.2,NaN,NaN,198.9706239,508.1429437,359.6005451,375.3143549
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,6.8901728,0.0281162,260.4339324,4.523360554,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,215.9603271,508.6577832,357.0263477,365.0175651
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,7.6553028,0.0275658,260.4339324,4.523360554,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,215.9603271,508.6577832,357.0263477,365.0175651
+maps/Occupancy_grid_map_1.ppm,Occupancy_grid_map_1_1.ppm,PF,1,7.3623699,0.0289346,260.4339324,4.523360554,square,6,[0.4235 0.9569 1],0,0,Narrow,A,NaN,NaN,NaN,NaN,0.02,70,1.2,NaN,NaN,215.9603271,508.6577832,357.0263477,365.0175651
